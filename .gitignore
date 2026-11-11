@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.db
+dev.db*
+google-sa.json
+test_wa.py
+.DS_Store
+*.log
